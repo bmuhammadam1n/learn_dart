@@ -10,3 +10,17 @@ void main() {
 
 	print("Hello $name");
 }
+
+
+import 'dart:io';
+
+void main() {
+  // Prompt the user for input
+  stdout.write('Enter something: ');
+
+  // Read input from the console
+  String? userInput = stdin.readLineSync();
+
+  // Display the input
+  print('You entered: $userInput');
+}

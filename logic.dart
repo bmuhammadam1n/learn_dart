@@ -4,11 +4,6 @@ void main(){
 	if (num == 5){
 		print("the number is 5!");
 	} 
-	
-
-
-
-
 	else{
 		print("the number is not 5!");
 	}	

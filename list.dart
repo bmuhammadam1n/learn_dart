@@ -40,6 +40,6 @@ void main() {
 	print(mixedlist);
 
 	//remove at specific position (position,item)
-	mixedlist.removeAt([2]);
-	print(mixedlist);
+	// mixedlist.removeAt([2]);
+	// print(mixedlist);
 }
